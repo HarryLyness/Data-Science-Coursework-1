@@ -6,3 +6,5 @@ Demonstrates:
   * Data wrangling and applications to modern large data sets (dyplr, lubridate...)
   * Data cleaning
 * Data interpretation + insights: communicating complex data analysis results and insights to both technical and non-technical stakeholders, using clear and concise language.
+
+Submission file: Coursework-1 (8).pdf
